@@ -3,7 +3,7 @@ session_start();
 function connectDB(){
 	try
 	{
-		$pdo= new PDO("mysql: host=localhost; dbname=vente_groupy", "tse", "Street1-Grading3-Hydration9");
+		$pdo= new PDO("mysql: host=localhost; dbname=u138812778_timeo", "u138812778_timeo", "8B[bTWBz~XGvm3iX");
 
 		return $pdo;
 	}
